@@ -1,6 +1,6 @@
 ### Hi there :computer:
 
-Sou o Leonardo, sou formado em SI e no momento estou estudando programação.
+Sou o Leonardo, sou formado em SI e no momento estou estudando programaução.
 
 Linguagens que estou aprendendo:
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
